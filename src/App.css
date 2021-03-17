@@ -35,17 +35,17 @@ p {
 }
 
 #escBar {
-  position: absolute;
   width: 200px;
   height: 200px;
-  margin-top: -720px;
-  margin-left: 55px;
 }
 
 #escArg {
-  position: absolute;
   width: 200px;
   height: 200px;
-  margin-top: -720px;
-  margin-left: 1000px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
